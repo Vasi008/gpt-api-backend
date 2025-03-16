@@ -3,5 +3,5 @@ spring:
     name: gpt-api-backend
   ai:
     openai:
-      api-key: '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'
+      api-key:
 
