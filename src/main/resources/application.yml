@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: gpt-api-backend
-  ai:
-    openai:
-      api-key:
-
